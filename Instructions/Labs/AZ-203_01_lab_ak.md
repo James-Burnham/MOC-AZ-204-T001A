@@ -40,7 +40,9 @@ Find the taskbar on your Windows 10 desktop. The taskbar contains the icons for 
 
 -   Visual Studio Code
 
-### Exercise 1: Build a back-end API by using Azure Storage and the Web Apps feature of Azure App Service
+===
+
+# Exercise 1: Build a back-end API by using Azure Storage and the Web Apps feature of Azure App Service
 
 #### Task 1: Open the Azure portal
 
@@ -292,7 +294,9 @@ Find the taskbar on your Windows 10 desktop. The taskbar contains the icons for 
 
 In this exercise, you created a web app in Azure and then deployed your ASP.NET web application to Web Apps by using the Azure CLI and Apache Kudu zip file deployment utility.
 
-### Exercise 2: Build a front-end web application by using Azure Web Apps
+===
+
+# Exercise 2: Build a front-end web application by using Azure Web Apps
 
 #### Task 1: Create a web app
 
